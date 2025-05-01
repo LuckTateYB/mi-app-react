@@ -58,7 +58,7 @@ function App() {
   }
   return(
     <div className="estilo">
-      <h1>Usando formularios y eventos en React</h1>
+      <h1>Usando formularios, estilos y eventos en React con Oscar</h1>
       {submitting &&
        <div>
          Tu realizaste Submit para la siguiente información:
